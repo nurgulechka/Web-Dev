@@ -1,13 +1,11 @@
 body{
    height: 100vh;
    display: flex;
-   align-content: center;
     align-items: center;
    justify-content: center;
 }
 .main{
     display : flex;
-
 }
 .visual{
 
@@ -23,15 +21,16 @@ body{
     left: 143px;
     width: 225px;
 }
-#login{
-  
+.box{
+  text-align: center;
     display: flex;
     flex-direction: column;
     align-items: stretch;
     width: 300px;
     background-color: white;
     border: 1px solid rgb(219,219,219);
-    height: 400px;
+    height: 350px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, '.SFNSText-Regular', sans-serif;
 }
 #icon{
     width: 150px;
@@ -75,7 +74,54 @@ button{
 }
 p{
     color: rgb(142, 142, 142);
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, '.SFNSText-Regular', sans-serif;
     font-size: 0.8125em;
     font-weight: 600;
+}
+#fb{
+    
+    margin-top: 7px;
+}
+#fb-link{
+    cursor: pointer;
+    text-decoration: none;
+    color: #385185;
+    font-size: 14px;
+    font-weight: 600;
+}
+#password{
+   
+    margin-top: 7px;
+}
+a{
+    text-decoration: none;
+}
+#pass{
+   display: inline;
+   cursor: pointer;
+   
+    color: rgb(0, 55, 107);
+    font-size:12px;
+}
+.sign-up{
+    justify-content: center;
+    margin-top: 15px;
+    height: 55px;
+    font-size:12px;
+    text-align: center;
+}
+.sign-up a{
+    color:rgb(0, 149, 246);
+    font-weight: 600;
+}
+.txt{
+    margin-top: 15px;
+    font-size:14px;
+    text-align: center;
+}
+#apps{
+    margin-top: 15px;
+    padding-left: 28px;
+}
+.app{
+    width:120px;
 }
