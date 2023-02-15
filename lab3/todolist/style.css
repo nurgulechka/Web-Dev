@@ -1,0 +1,85 @@
+.main{
+    padding:30px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+body{
+    background-color: #FFF9DC;
+}
+h1{
+    font-size: 70px;
+    color: #FAA8C4;
+}
+
+*{
+    font-family: "Imprint MT Shadow";
+}
+.completed{
+    width: 25px;
+    height: 25px;
+}
+.input-text{
+    font-size: 16px;
+    width: 300px;
+    height: 30px;
+    font-size: 25px;
+}
+.input-text:focus{
+    outline:2px solid bisque;
+    opacity: 80%;
+    border:none;
+    
+}
+#add-button{
+    width: 80px;
+    height: 50px;
+    font-size: 30px;
+    font-style: sans-serif;
+    background-color: #E5CCFF;
+    color: #74b999;
+    font-weight: bold;
+    border:2px solid #E5CCFF;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.completed:checked + .input-text{
+    text-decoration: line-through;
+    background-color: lightblue;
+    width:300px;
+    height:200px;
+}
+.items-container{
+    margin-top:30px;
+    width:300px;
+    height:200px;
+    display: flex;
+    flex-direction: column;
+}
+.items-container div{
+    padding: 5px;
+    display: flex;
+    width: 300px;
+    height: 30px;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 10px;
+    border:1p x solid;
+    margin-top: 20px;
+}
+.delete-button{
+   
+    width :60px;
+    height: 20px;
+    color:white;
+    background-color:#823051;
+    border-radius: 10px;
+    border:2px solid #823051;
+
+}
+.completed:checked+.content{
+    text-decoration: line-through;
+    background-color: lightcyan;
+    
+}
