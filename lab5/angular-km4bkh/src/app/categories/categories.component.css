@@ -1,0 +1,10 @@
+#category{
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: center;
+    font-family: '';
+}
+a{
+    margin: 30px;
+}

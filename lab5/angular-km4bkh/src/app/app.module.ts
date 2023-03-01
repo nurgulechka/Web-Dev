@@ -1,4 +1,4 @@
-import { NgModule } from '@angular/core';
+import { NgModule,  CUSTOM_ELEMENTS_SCHEMA  } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { RouterModule } from '@angular/router';
 import { ReactiveFormsModule } from '@angular/forms';
@@ -10,17 +10,25 @@ import { ProductDetailsComponent } from './product-details/product-details.compo
 import { CartComponent } from './cart/cart.component';
 import { HttpClientModule } from '@angular/common/http';
 import { ShippingComponent } from './shipping/shipping.component';
+import { CategoriesComponent } from './categories/categories.component';
+import {RatingModule} from 'ng-starrating';
+
 @NgModule({
   imports: [
     BrowserModule,
     HttpClientModule,
+  RatingModule,
     ReactiveFormsModule,
     RouterModule.forRoot([
       { path: '', component: ProductListComponent },
-      {path : 'products/:productId', component: ProductDetailsComponent},
+      {path : 'product/:productId', component: ProductDetailsComponent},
       { path: 'cart', component: CartComponent },
       { path: 'shipping', component: ShippingComponent },
+      {path : 'category/:category', component : ProductListComponent}
     ])
+  ],
+  schemas: [
+    CUSTOM_ELEMENTS_SCHEMA
   ],
   declarations: [
     AppComponent,
@@ -28,11 +36,13 @@ import { ShippingComponent } from './shipping/shipping.component';
     ProductListComponent,
     ProductDetailsComponent,
     CartComponent,
-    ShippingComponent
+    ShippingComponent,
+    CategoriesComponent
   ],
   bootstrap: [
     AppComponent
-  ]
+  ],
+
 })
 export class AppModule { }
 

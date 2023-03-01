@@ -9,16 +9,14 @@
 }
 
 body {
-  margin: 0;
+  margin:0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
 }
-.items{
-  width :500px;
-margin-left: 30px;
- align-items: center;
-}
 .container{
-  display: inline;
+
 }
 
 router-outlet + *  {
@@ -141,8 +139,9 @@ app-top-bar h1 {
   background-color: #EEEEEE;
 }
 img{
-  width: 250px;
-  height: 280px;
+  width: 200px;
+  height: 250px;
+
 }
 
 /*
