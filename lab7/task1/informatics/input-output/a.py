@@ -1,0 +1,10 @@
+import math
+a = int(input())
+b = int(input())
+
+print(math.sqrt(a*a + b*b))
+
+#a = int(input())
+#b = int(input())
+#print((a**2 + b**2)**0.5)
+
