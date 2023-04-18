@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2e29fcf-b079-426e-9a80-4aeb10e1d7e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../lab8/shopback/api/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9/hh_back/api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/KWlDlZddpGI.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/facebook.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/fb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/h.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/ig.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/ig.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/micr.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/micro.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/1." beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/CodeQuality/3_2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/JS_Fund/2_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/JS_Fund/2_10.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/JS_Fund/2_11.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/JS_Fund/2_13.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/JS_Fund/2_13.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/JS_Fund/2_14.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/JS_Fund/2_15.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/JS_Fund/2_17.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/JS_Fund/2_1_alert.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/JS_Fund/2_1_alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/JS_Fund/2_2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/JS_Fund/2_2_const.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/JS_Fund/2_2_vars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/JS_Fund/2_6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/JS_Fund/2_6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/JS_Fund/2_8.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/JS_Fund/2_8.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/JS_Fund/2_8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/JS_Fund/2_9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/1.ts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Oa8bOYK58EctRxZQf7ayBAkLSY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/nurgul/kbtu_study/4th_semester/web-dev1/lab-works/lab10",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2e29fcf-b079-426e-9a80-4aeb10e1d7e8" name="Changes" comment="" />
+      <created>1681787403444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681787403444</updated>
+      <workItem from="1681787405525" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
